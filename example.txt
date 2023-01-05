@@ -1,3 +1,2 @@
-changed master
+updated developerA
 updated developerB
-changed developerA
