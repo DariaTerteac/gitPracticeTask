@@ -1,3 +1,4 @@
 New class 1
 New class2
-method#2
+updated method#2
+new method #1
