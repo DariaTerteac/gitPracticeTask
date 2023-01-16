@@ -1,4 +1,0 @@
-New class 1
-New class2
-updated method#2
-new method #1
